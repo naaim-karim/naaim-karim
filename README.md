@@ -3,7 +3,7 @@
 I'm a self-taught developer focused on building real-world projects, learning AI and backend development, and understanding how software works under the hood.
 
 ## 🚀 What I'm currently working on:
-- A portfolio project to showcase my skills
+- A portfolio project to showcase my projects
 - Upgrading the [Alnaaim Barbershop](https://alnaaim-shop.vercel.app/) website for a better user experience
 - Building a student management system called Alrifai
 
@@ -17,7 +17,7 @@ I'm a self-taught developer focused on building real-world projects, learning AI
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📚 Currently Learning:
-Taking a short break from learning new tech to focus on job searching and polishing existing projects.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 ## 📫 Get in Touch
