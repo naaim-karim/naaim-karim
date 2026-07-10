@@ -15,9 +15,10 @@ I'm a self-taught developer focused on building real-world projects, learning AI
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Sass](https://img.shields.io/badge/Sass-hotpink?style=flat&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## 📚 Currently Learning:
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS]
 
 
 ## 📫 Get in Touch
