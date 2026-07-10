@@ -4,8 +4,8 @@ I'm a self-taught developer focused on building real-world projects, learning AI
 
 ## 🚀 What I'm currently working on:
 - A portfolio project to showcase my projects
-- Upgrading the [Alnaaim Barbershop](https://alnaaim-shop.vercel.app/) website for a better user experience
-- Building a student management system called Alrifai
+- Maintaining the Alrifai App
+- Freelance work on Upwork
 
 ## 🧰 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
